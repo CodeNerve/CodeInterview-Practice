@@ -2,7 +2,9 @@
 #include<map>
 #include<string>
 using namespace std;
-
+//
+// Using map as an extra data-structure
+//
 int main()
 {
 
