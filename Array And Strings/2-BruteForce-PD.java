@@ -16,7 +16,7 @@ public static void permutation1(String pre, String s) {
 	
 public static boolean checkPermutationB(String other, String s) {
 		
-		//Brute Force
+		//Brute Force (checks only same length permutations)
 		permutation1("",s);
 		
 		for(int i=0;i<str.size();i++) {
