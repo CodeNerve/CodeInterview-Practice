@@ -1,4 +1,6 @@
 public static boolean checkPermutationE(String other, String s) {
+	// This method checks for all possible permutations (not only same length) efficiently
+	// The Brute Force method for this question just checks same length permutations
 		
 		HashMap<Character,Integer> hm = new HashMap<Character,Integer>();
 		
