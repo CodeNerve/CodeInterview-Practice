@@ -1,6 +1,6 @@
 # Array And Strings
 
-Interview questions for Arrays and Strings: PDF Page no. : 101, Book Page no. :90
+Interview questions for Arrays and Strings
 
 **1. Find if a string has all unique characters.**
 
