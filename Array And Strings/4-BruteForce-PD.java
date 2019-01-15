@@ -1,3 +1,5 @@
+static ArrayList<String> a = new ArrayList<String>();
+
 public static void permutation2(String s, String pre) {
 		
 		if(s.length() == 0)
