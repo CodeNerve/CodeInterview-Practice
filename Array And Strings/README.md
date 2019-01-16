@@ -9,3 +9,5 @@
 **3. Replace all spaces in a string by %20.**
 
 **4. Check if the given string is a permutation of a palindrome or not.**
+
+**5. Check if the given string is one edit away from another string.**
