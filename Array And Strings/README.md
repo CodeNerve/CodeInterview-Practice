@@ -13,3 +13,5 @@
 **5. Check if the given string is one edit away from another string.**
 
 **6. Perform a basic string compression using the counts of repeated characters. If the "compressed" string would not become smaller than the original string, then return the original string.**
+
+**7. Rotate NxN matrix 90 degrees (in place)**
