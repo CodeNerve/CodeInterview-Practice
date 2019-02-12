@@ -15,3 +15,5 @@
 **6. Perform a basic string compression using the counts of repeated characters. If the "compressed" string would not become smaller than the original string, then return the original string.**
 
 **7. Rotate NxN matrix 90 degrees (in place)**
+
+**8. Write an algorithm such that if an element in a MxN matrix is zero, its entire row and column is set to zero**
