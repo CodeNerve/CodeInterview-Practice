@@ -1,6 +1,6 @@
 # Array And Strings
 
-## Interview questions for Arrays and Strings
+## Interview questions for Array and Strings
 
 **1. Find if a string has all unique characters.**
 
