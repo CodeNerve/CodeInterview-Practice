@@ -9,3 +9,5 @@
 **3. Delete any node in middle of a singly linked list (except head or tail).**
 
 **4. You have two numbers represented by singly linked list, where each node contains a single digit. The digits are stored in reverse order, such that one's digit is at the head of the singly linked list. Write a function to add numbers from such two linked list and return them in the same type of linked list as above.**
+
+**5. Check is the given SLL is a palindrome.**
