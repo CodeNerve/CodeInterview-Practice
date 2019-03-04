@@ -14,4 +14,4 @@
 
 **6. Given two SLL, determine if the lists are intersecting (you can assume they have unqiue elements).**
 
-**7. Find in the two given SLL, is there is a loop or not.**
+**7. Find in the two given SLL if there is a loop or not.**
